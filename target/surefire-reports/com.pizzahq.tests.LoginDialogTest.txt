@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.pizzahq.tests.LoginDialogTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.004 s - in com.pizzahq.tests.LoginDialogTest

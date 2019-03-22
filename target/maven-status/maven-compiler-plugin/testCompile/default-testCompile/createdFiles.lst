@@ -1,0 +1,4 @@
+com\pizzahq\tests\ContactPageTest.class
+com\pizzahq\tests\BaseTestSuit.class
+com\pizzahq\tests\LoginDialogTest.class
+com\pizzahq\tests\SignupDialogTest.class

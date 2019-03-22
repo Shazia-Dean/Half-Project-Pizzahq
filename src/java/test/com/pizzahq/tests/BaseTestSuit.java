@@ -24,7 +24,7 @@ public class BaseTestSuit {
 
 	@AfterClass
 	public static void tearDownAfterClass() throws Exception {
-		//driver.quit();
+		driver.quit();
 	}
 
 	@Before

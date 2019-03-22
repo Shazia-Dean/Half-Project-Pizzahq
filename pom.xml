@@ -40,7 +40,7 @@
         </dependencies>
 		
 		<build>
-			
+			<testSourceDirectory>${project.basedir}/src/java/test/com/pizzahq/tests</testSourceDirectory>
 			<plugins>
 				<plugin>
 					<groupId>org.apache.maven.plugins</groupId>
